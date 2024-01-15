@@ -1,0 +1,42 @@
+
+
+ /* Nav Related Styles Start */
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 50px 130px;
+
+}
+.nav-container ul{
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+.nav-container ul a{
+    text-decoration: none;
+    color:#424247;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.nav-container h2{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 2.1em;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;   
+}
+.nav-container .important{
+    color: #FF5400;
+}
+ .nav-container .special{
+    color: #FF5400;
+    font-weight: 700;
+}
+
+ /* Nav Related Styles End */
