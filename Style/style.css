@@ -41,7 +41,8 @@
 }
 
  /* Nav Related Styles End */
-/* Banner Related Styles */
+
+/* Banner Related Styles  Start*/
 .banner{
 
     margin: 50px 135px;
@@ -51,12 +52,10 @@
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    height: 100%;
+    height: 500px;
     padding: 105px 200px 120px 200px ;
 }
-.banner-content{
-    
-}
+
  .banner .banner-content h1{
     color: #FFF;
     font-family: Mulish;
@@ -99,3 +98,60 @@ padding: 20px 0px;
     border-radius: 8px;
     background: #FF5400;
 }
+/* Banner Related Styles End */
+
+/* Section-1 Our Popular Tours Related Styles Start */
+
+.section-1{
+    /* width: 1170px; */
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 135px;
+}
+.section-1-container{
+    width: 50%;
+}
+.section-1 .section-1-container .section-1-image {
+    width: 50%;
+}
+.section-1 .section-1-container .section-1-image image {
+    width: 100%;
+}
+h2{
+    color: #131318;
+
+   font-family: Mulish;
+   font-size: 2.5em;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+}
+.section-1-description,  ul  , .important {
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+.special{
+    color: tomato;
+    font-size: 20px;
+    font-weight: 900px;
+}
+button{
+    width: 174px;
+    height: 52px;
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 20px;
+    border: none;
+    border: 2px solid;
+    border-radius: 8px;
+    background: #FF5400;
+    font-weight: 800;
+    margin-top: 45px;
+}
+
+
+/* Section-2 Our Popular Tours Related Styles End */
