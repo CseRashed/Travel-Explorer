@@ -60,4 +60,18 @@
     }
     /* Section-2 Choose Your Destination Related Styles End */
 
+
+    /* Section-3 Why Choose Us Responsive Related Styles Start */
+    .section-3{
+        margin: 10px;
+    }
+    .card{
+        flex-direction: column;
+        
+    }
+    .card-1, .card-2 ,.card-3{
+        width: auto;
+    }
+
+    /* Section-3 Why Choose Us Responsive Related Styles End */
 }
