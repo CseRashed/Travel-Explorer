@@ -1,0 +1,12 @@
+
+/* Responsive Start */
+
+/* Small Device Related */
+@media screen and (max-width: 600px)  {
+    .nav-container{
+        flex-direction: column;
+    }
+    .nav-container ul{
+        flex-direction: column;
+    }
+}
