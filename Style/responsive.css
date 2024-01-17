@@ -9,4 +9,21 @@
     .nav-container ul{
         flex-direction: column;
     }
+
+    .section-1{
+        flex-direction: column;
+        margin: 0px 0px;
+        margin-left: 10px;
+        align-items: center;
+        padding: auto;
+    }
+    .section-1-container{
+        margin-left: 0px;
+        text-align: left;
+        width: 100%;
+    }
+    .section-1 img{
+        width: 100%;
+    }
+    
 }
