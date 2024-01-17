@@ -25,6 +25,8 @@
     line-height: normal;
 }
 .nav-container h2{
+    display: flex;
+    justify-content: center;
     color: #131318;
     font-family: Mulish;
     font-size: 2.1em;
