@@ -95,8 +95,12 @@
         width: 530px;
         margin-left: 10px;
     }
-   
-    
-
     /* Section-4 Newsletter Resonsive Related Styles End */
+
+    /* Footer  section Responsive Related Styles Start */
+.footer{
+    width: auto;
+}
+
+    /* Footer Section Responsive Related Styles End */
 }
