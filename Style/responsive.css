@@ -69,9 +69,34 @@
         flex-direction: column;
         
     }
-    .card-1, .card-2 ,.card-3{
+    .card-1, .card-2{
         width: auto;
     }
-
+.card-3{
+    width: auto;
+    margin: 10px;
+}
     /* Section-3 Why Choose Us Responsive Related Styles End */
+
+    /* Section-4 Newsletter Responsive Related Styles Start */
+   
+    
+    .newsletter{
+        align-items: center;
+        margin: 10px;
+        flex-direction: column;
+    }
+    .section-4-content{
+        width: 300px;
+        width: 450px;
+        margin-left: 10px;
+    }
+    .newsletter img{
+        width: 530px;
+        margin-left: 10px;
+    }
+   
+    
+
+    /* Section-4 Newsletter Resonsive Related Styles End */
 }

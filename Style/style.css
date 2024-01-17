@@ -314,31 +314,6 @@ line-height: 26px;
     background: rgba(19, 19, 24, 0.05);
     border: none;
 }
-.save-now{
-    height:100px;
-    width: 200px;
-    border-radius: 10px;
-background: #FF5400;
-align-items: center;
-text-align: center;
-padding-bottom: 10px;
-}
-.save-now p{
-    color: #FFF;
-font-family: Mulish;
-font-size: 22px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-}
-.save-now h4{
-    color: #FFF;
-font-family: Mulish;
-font-size: 1.5em;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-}
 
 
 
